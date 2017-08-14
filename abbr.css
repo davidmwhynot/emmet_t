@@ -1,0 +1,94 @@
+#myElement {
+  color: #000;
+  color: #000;
+  color: #f4f4f4;
+
+  position: absolute;
+
+  position: relative;
+
+  position: fixed;
+  position: static;
+  top: 100px;
+  top: 50%;
+
+  left: 3em;
+
+  float: left;
+  float: left;
+
+  float: right;
+
+  float: none;
+
+  clear: right;
+  clear: left;
+  clear: left;
+  clear: both;
+  clear: none;
+
+  display: block;
+  display: inline;
+  display: inline-block;
+
+  margin: 10px;
+
+  margin-right: 10px;
+
+  margin-left: 10px;
+
+  margin-bottom: 10px;
+
+  margin-bottom: 10px;
+
+  margin-top: 1em;
+
+  padding: 1px;
+
+  margin: auto;
+
+  padding-top: 90px;
+
+  padding-left: 12px;
+
+  padding-bottom: 50px;
+
+  width: 100px;
+
+  height: 50%;
+
+  height: auto;
+
+  height: auto;
+
+  list-style-type: none;
+  list-style-type: none;
+  list-style-type: circle;
+  /*list-style-type: square;*/
+
+  text-align: left;
+  text-align: right;
+  text-align: right;
+
+  text-decoration: none;
+  font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+  font-family: Verdana, Geneva, sans-serif;
+
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-family:
+  font-style: italic;
+  font-stretch: ultra-condensed;
+
+  font-style: oblique;
+  font-weight: 400;
+
+  font-weight: normal;
+  font-weight: bold;
+
+  position: static;
+  position: static;
+  position: fixed;
+
+}
